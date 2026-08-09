@@ -24,15 +24,10 @@ Rather than manually browsing financial portals, your AI assistant autonomously 
 
 ## 📸 Screenshots
 
-### 1. Real-Time Mutual Fund Search & Filtering
-*Claude executing real-time screener queries against Groww API based on user criteria.*
-<!-- Place screenshot of MCP pulling filtered mutual fund listings here -->
-![Groww MCP - Listing & Filtering Funds](https://raw.githubusercontent.com/codeterrayt/Mutual-Funds-Groww-MCP/main/screenshots/screener_funds.png)
+### Real-Time Search & Deep-Dive Analysis
+*Claude executing real-time screener queries and analyzing detailed metrics, portfolio holdings, risk parameters, and CAGR.*
+<img width="875" height="1027" alt="screenzy-1786277257050" src="https://github.com/user-attachments/assets/93e35df2-711f-43ce-8b57-3a5dcab9798f" />
 
-### 2. Deep-Dive Mutual Fund Analysis
-*Claude inspecting detailed metrics, top 10 company holdings, fund manager profiles, and historical CAGR.*
-<!-- Place screenshot of detailed fund inspection here -->
-![Groww MCP - Detailed Fund View](https://raw.githubusercontent.com/codeterrayt/Mutual-Funds-Groww-MCP/main/screenshots/detailed_fund.png)
 
 ---
 
@@ -139,6 +134,8 @@ If you prefer running using your python environment:
 *(Note: Replace `d:/Projects/GROWW MCP` with your local repository path, ensuring path slashes are written as `/`).*
 
 After editing the config, **stop Claude From System Tray and restart Claude Desktop**. You will see the tools active in Claude Desktop.
+
+<img width="2182" height="1128" alt="screenzy-1786276796934" src="https://github.com/user-attachments/assets/34e07f47-d1af-4a02-b037-dd2c3971edac" />
 
 ---
 
