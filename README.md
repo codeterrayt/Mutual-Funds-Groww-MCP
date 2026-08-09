@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/73dc9208-c96f-47ec-851f-3ca2381aaab4" width="64" height="64" alt="logo" />
-  <h1>Groww Mutual Funds MCP Server</h1>
+  <h1>Mutual Funds Custom MCP Server via Groww Web API's</h1>
 </div>
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://python.org)
