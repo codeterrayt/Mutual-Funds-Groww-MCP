@@ -21,6 +21,14 @@ Rather than manually browsing financial portals, your AI assistant autonomously 
 4. **Deep-Dive Fund Diagnostics**: To pick and analyze the best funds, Claude invokes `fetch_mutual_fund_details` to examine the fund's **top 10 holding companies**, **fund managers' experience & education**, **Sharpe/Sortino/Alpha/Beta risk metrics**, **CAGR vs category average**, **NAV**, **AUM**, **Expense Ratio**, and **Exit Load**.
 
 ---
+## 📽️ Demo Video
+
+
+https://github.com/user-attachments/assets/9c28dd77-0fd1-4947-a0bf-f7c50a4e5248
+
+
+
+
 
 ## 📸 Screenshots
 
